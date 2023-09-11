@@ -1,2 +1,2 @@
-# Assignment 1 - Hacktive8
+# Assignment 1 - Hacktiv8
 Calculator 
